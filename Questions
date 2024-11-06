@@ -1,0 +1,118 @@
+Chaque fonction est situé dans le .c correspondant au nom de son exercice. Il est précisé quand ce n'est pas le cas.
+Les tests sont soit effectués dans les fonctions test soit dans le main.
+Le rapport est pour l'instant sous forme d'un fichier .txt en attendant la fin des exercices pour une future mise au propre.
+On supposera dans les exercices que les malloc se sont bien effectués.
+
+
+EXERCICE 1
+
+Question 1 et 2
+
+On utilise la méthode naïve qui a une complexité en O(p/2) pour trouver que le plus grand nombre qu'on arrive à tester en moins de 2 millièmes de secondes se situe autour de 100000.
+
+Question 3
+
+La complexité de la fonction est de O(log(m)).
+
+Question 5
+
+On obserbe que la fonction naive est toujours moins efficace.
+
+Question 7
+
+On estime à log(p/4) la probabilité d'erreur de l'algorithme.
+
+Question 8
+
+On remarque que plus le nombre de test augmente, plus le nombre retourné à de chance d'être premier.
+
+
+EXERCICE 2
+
+Question 1
+
+Puisqu'on ne renvoie rien, on ne prend pas la peine de créer les clés puisqu'on peut simplement récuperer les données les composant.
+
+
+EXERCICE 3
+
+Question 1
+
+Voir Ex3.h
+
+Question 2
+
+On octroit simplement les valeurs aux variables de la clé.
+
+Question 3
+
+On utilise les fonctions précédentes pour générer une clé publique et une clé secrète.
+
+Question 4
+
+On privilégie le spécificateur %ld au lieu %lx qui semble modifier des valeurs inutilement.
+
+Question 5
+
+Voir Ex3.h
+
+Question 6
+
+Tout comme la fonction init_key, on octroit les valeurs aux variables de la signature sauf que l'on alloue la signature avant.
+
+Question 7
+
+On utilise la fonction encrypt afin d'obtenir la valeur secrète du message donné.
+
+Question 8
+
+On adapte le code donné aux conditions de notre propre code.
+
+Question 9
+
+Voir Ex3.h
+
+Question 10
+
+On alloue la structure protected puis on lui rajoute les valeurs données.
+
+Question 11
+
+On fait juste un test pour vérifier l'égalité des deux messages.
+
+Question 12
+
+
+EXERCICE 4
+
+voir Ex4.c
+
+EXERCICE 5
+
+Question 2
+
+On créé une cellule que l'on ajoute à l'aide d'une clé passée en paramètre et on la place en tête de la liste chainée de clés passée elle aussi en paramètre.
+
+Question 3
+
+On utilise le format des fichiers établis à l'exercice 4 que l'on déconstruit en paramètre afin de les lire.
+
+Question 4
+
+On affiche les clés sous le format (x,y).
+
+Question 5
+
+On free la clé de chaque cellule puis la cellule elle-même.
+
+Question 7
+
+Même procédé qu'à la question 2 mais avec une cellule protected.
+
+Question 9
+
+On créé un file que l'on print avec la fonction read_protected.
+
+Question 10
+
+Même procédé qu'à la question 5 mais avec une cellule protected.

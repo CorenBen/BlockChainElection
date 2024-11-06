@@ -1,0 +1,9 @@
+Auteur : (c,d) , Valeur Hachée : aab , Valeur hachée précédente : aaa , Preuve de Travail : 0
+Clé publique : (257,a0d), Message : (26f,b33) , Signature : #8de#12#2c2#6bf#560#36c#8e2#70f#9eb#
+Clé publique : (25,55), Message : (19f,2ed) , Signature : #4b#32#53#4a#53#53#b#
+Clé publique : (19f,2ed), Message : (19f,2ed) , Signature : #18d#1dc#1e4#13f#198#174#2aa#8e#2de#
+Clé publique : (247,535), Message : (19f,2ed) , Signature : #4cb#4e6#415#69#103#279#520#279#85#
+Clé publique : (26f,b33), Message : (25,55) , Signature : #6c9#4cf#aa8#535#579#592#12a#12a#84e#
+Clé publique : (279,87d), Message : (19f,2ed) , Signature : #147#834#624#144#619#6b4#624#271#19a#
+Clé publique : (42b,2bdb), Message : (26f,b33) , Signature : #e02#11c4#1aa0#be6#26e7#1aa0#be6#881#be6#745#
+Clé publique : (40f,c4d), Message : (26f,b33) , Signature : #86e#68e#525#411#d#8c2#68e#c39#d0#
